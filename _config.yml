@@ -5,3 +5,19 @@ lang: fr
 show_downloads: false
 baseurl: "/portfolio-Patricia-Koto"
 logo: assets/img/photo.jpg
+# Configuration du logo à gauche
+logo: "assets/img/photo.jpg"
+
+# On injecte du HTML/CSS directement dans la description pour tricher un peu
+description: >
+  Data Analyst | Statisticienne | Économiste du développement
+  <style>
+    header img {
+      width: 180px !important;    /* Taille plus petite */
+      height: 180px !important;   /* Hauteur égale pour le cercle */
+      border-radius: 50% !important; /* Rend l'image ronde */
+      object-fit: cover !important;  /* Coupe l'image sans l'écraser */
+      margin: 0 auto 20px auto !important;
+      display: block !important;
+    }
+  </style>
