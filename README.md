@@ -1,146 +1,162 @@
 # 👋 Patricia KOTO NGBANGA  
 
-🎯 Data Analyst | Statisticienne | Économiste du développement  
+🎯 **Data Analyst | Statisticienne | Économiste du développement**  
 
 📍 Paris, France  
-📧 patriciakoto@gmail.com  
-🔗 https://linkedin.com/in/patkot  
-💻 https://github.com/Patricia-Koto  
+📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
+🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
+💻 GitHub : [Patricia-Koto](https://github.com/Patricia-Koto)  
 
 ---
 
 ## 🚀 À propos de moi  
 
-Économiste du développement et statisticienne, j’utilise la data pour analyser les réalités socio-économiques et appuyer la prise de décision.
+Économiste du développement et statisticienne, j’utilise les données pour analyser les réalités socio-économiques et appuyer la prise de décision.  
 
-Mon profil combine analyse de données, expérience terrain en enquêtes statistiques et suivi de projets de développement.
+Mon profil combine analyse de données, expérience terrain en enquêtes statistiques et suivi de projets de développement.  
 
-👉 Objectif : transformer les données en leviers d’action pour les politiques publiques.
+👉 **Objectif :** transformer les données en outils opérationnels pour orienter les politiques publiques.  
 
 ---
 
 ## 🧠 Compétences  
 
-- Data analysis : Python, R, Pandas, NumPy  
-- Machine Learning : Scikit-learn, Statsmodels  
-- BI & Visualisation : Power BI, Excel  
-- Data engineering : SQL, PySpark (bases)  
-- Outils : Git, MLflow, Streamlit  
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![SQL](https://img.shields.io/badge/SQL-Data%20Engineering-lightgrey)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![MLflow](https://img.shields.io/badge/MLOps-MLflow-blueviolet)
+
+**📊 Analyse de données**  
+Python (Pandas, NumPy), R  
+
+**📈 Statistiques et modélisation**  
+Régression, inférence statistique, modélisation prédictive  
+
+**🤖 Machine Learning**  
+Scikit-learn, Statsmodels  
+
+**📊 Visualisation et BI**  
+Power BI, Excel  
+
+**⚙️ Data engineering**  
+SQL, notions de PySpark  
+
+**🛠️ Outils**  
+Git, MLflow, Streamlit  
+
+---
+
+## 📊 Résultats clés  
+
+- Modèle de prédiction de la pauvreté avec une performance élevée (AUC > 0.75)  
+- Modèle de deep learning avec une précision d’environ 90 %  
+- Mise en place d’un suivi MLflow pour comparer plusieurs modèles  
+- Déploiement d’une application interactive pour la prise de décision  
 
 ---
 
 ## 📂 Projets  
 
-### 🔹 Prédiction de la pauvreté (Machine Learning)
+### 🔹 Prédiction de la pauvreté (Machine Learning)  
 
-Objectif : prédire les ménages pauvres à partir de données d’enquête.
+Développement d’un modèle de classification pour identifier les ménages pauvres à partir de données d’enquête.  
 
-Techniques utilisées :
-- Régression logistique  
-- Random Forest  
-- Gradient Boosting  
-- Pondérations statistiques  
+**Méthodes :** régression logistique, Random Forest, Gradient Boosting, pondérations statistiques  
 
-Résultat : modèle performant pour le ciblage des politiques publiques.
+**Résultat :** modèle robuste pour améliorer le ciblage des politiques publiques  
 
 🔗 Code :  
-https://github.com/Patricia-Koto/memoire  
+[Voir le projet](https://github.com/Patricia-Koto/memoire)  
 
 🔗 Application :  
-https://predictionpauvreterdc.streamlit.app/
+[Accéder à l'application](https://predictionpauvreterdc.streamlit.app/)  
 
 ---
 
-### 🔹 Deep Learning – Classification d’images  
+### 🔹 Classification d’images (Deep Learning)  
 
-Objectif : classifier des images (nature, mer, montagne, etc.).
+Mise en place de modèles de vision par ordinateur pour classifier des images.  
 
-Modèles :
-- CNN  
-- MobileNetV2 (transfer learning)  
+**Modèles :** CNN, MobileNetV2  
 
-Résultat : précision élevée (~90 %).
+**Résultat :** précision d’environ 90 %  
 
 🔗 Code :  
-https://github.com/Patricia-Koto/deeplearning_project  
+[Voir le projet](https://github.com/Patricia-Koto/deeplearning_project)  
 
 ---
 
 ### 🔹 MLOps avec MLflow  
 
-Objectif : suivre et comparer les performances des modèles.
+Suivi et comparaison des performances des modèles.  
 
-Contenu :
-- Tracking des expériences  
-- Comparaison des modèles  
-- Sélection du meilleur modèle  
+**Contenu :** tracking des expériences, sélection du meilleur modèle  
 
 🔗 Code :  
-https://github.com/Patricia-Koto  
+[Voir le projet](https://github.com/Patricia-Koto)  
 
 ---
 
 ### 🔹 Data Warehouse & Power BI  
 
-Objectif : concevoir un entrepôt de données et des dashboards.
+Conception d’un entrepôt de données et création de dashboards.  
 
-Technologies :
-- SQL Server  
-- Power BI  
+**Technologies :** SQL Server, Power BI  
 
 🔗 Code :  
-https://github.com/Patricia-Koto  
+[Voir le projet](https://github.com/Patricia-Koto)  
 
 ---
 
 ### 🔹 Graph Data – Neo4j  
 
-Objectif : modéliser et analyser des relations complexes.
+Modélisation et analyse de relations complexes.  
 
-Technologies :
-- Neo4j  
-- Cypher  
+**Technologies :** Neo4j, Cypher  
 
 🔗 Code :  
-https://github.com/Patricia-Koto  
+[Voir le projet](https://github.com/Patricia-Koto)  
 
 ---
 
 ## 📊 Expérience  
 
-### FORIM – Chargée de suivi de projets  
-- Suivi technique et financier de projets  
-- Gestion et analyse de données  
+### 🏢 FORIM — Chargée de suivi de projets  
+- Suivi technique et financier  
+- Analyse de données  
+- Reporting  
 
-### Institut National de la Statistique (RDC)  
-- Supervision d’enquêtes  
-- Analyse de données nationales  
+### 🏢 Institut National de la Statistique (RDC)  
+- Supervision d’enquêtes nationales  
+- Analyse de données  
 - Coordination terrain  
 
 ---
 
 ## 🎓 Formation  
 
-- Master Développement – Paris 1 Sorbonne  
-- DU Data Analytics – Paris 1  
-- Formation en statistique – ENSEA  
+- Master Développement — Paris 1 Sorbonne  
+- DU Data Analytics — Paris 1  
+- Formation en statistique — ENSEA  
 
 ---
 
 ## 📌 Points forts  
 
-- Double compétence : terrain + data science  
+- Double compétence : terrain et data science  
 - Expérience sur enquêtes nationales  
-- Approche orientée impact et décision  
-- Projets concrets et déployés  
+- Approche orientée décision et impact  
+- Projets concrets avec déploiement  
 
 ---
 
 ## 📬 Contact  
 
-Je suis ouverte aux opportunités en :  
+Disponible pour des opportunités en :  
 - Data analysis  
 - Suivi-évaluation  
 - Data science appliquée  
 
-📧 patriciakoto@gmail.com  
+📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
+🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
