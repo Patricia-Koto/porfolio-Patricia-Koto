@@ -1,0 +1,22 @@
+# Nom affiché en haut du site
+title: "Patricia KOTO"
+
+# Petite description sous le nom (slogan)
+description: "Data Analyst | Statisticienne | Économiste du développement"
+
+# Thème du site (minimal = simple, propre mais limité)
+theme: jekyll-theme-minimal
+
+# Langue du site (utile pour SEO et certains thèmes)
+lang: fr
+
+# Afficher ou non le bouton de téléchargement (inutile ici)
+show_downloads: false
+
+# ⚠️ IMPORTANT : nom du repo (obligatoire pour les projets GitHub Pages)
+# Sans ça, les chemins vers les images ne marchent pas
+baseurl: "/portfolio-Patricia-Koto"
+
+# Chemin vers ta photo de profil
+# On inclut le baseurl pour que GitHub trouve bien l'image
+logo: "/portfolio-Patricia-Koto/assets/img/photo.jpg"
