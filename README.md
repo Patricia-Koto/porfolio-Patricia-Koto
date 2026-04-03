@@ -2,6 +2,21 @@
 
 🎯 **Data Analyst | Statisticienne | Économiste du développement**  
 
+<style>
+  header img {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+</style>
+
+<header>
+  <img src="{{ site.baseurl }}/assets/img/photo.jpg" alt="Patricia KOTO">
+</header>
+
 📍 Paris, France  
 📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
 🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
