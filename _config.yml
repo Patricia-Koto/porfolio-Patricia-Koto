@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 lang: fr
 show_downloads: false
 baseurl: "/portfolio-Patricia-Koto"
-logo: "/assets/img/photo.jpg"
+logo: assets/img/photo.jpg
