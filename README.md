@@ -2,22 +2,6 @@
 
 🎯 **Data Analyst | Statisticienne | Économiste du développement**  
 
-<style>
-  /* Ce code va redimensionner ton image proprement */
-  .profile-pic {
-    width: 150px;       /* Taille de l'image */
-    height: 150px;      /* Même valeur pour un cercle parfait */
-    border-radius: 50%; /* Rend l'image ronde */
-    object-fit: cover;  /* Évite de déformer ton visage */
-    display: block;
-    margin: 20px 0;    /* Espace au-dessus et en-dessous */
-    border: 3px solid #eee; /* Optionnel : un petit bord gris */
-  }
-</style>
-
-<header>
-  <img src="{{ site.baseurl }}/assets/img/photo.jpg" alt="Patricia KOTO" class="profile-pic">
-</header>
 📍 Paris, France  
 📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
 🔗 LinkedIn : [patkot](https://linkedin.com/in/patkot)  
