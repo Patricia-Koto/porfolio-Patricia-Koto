@@ -1,6 +1,6 @@
 # 👋 Patricia KOTO NGBANGA  
 
-**🎯 Data Analyst | Statisticienne | Économiste du développement**  
+**🎯 Data Analyst**| **Statisticienne** | **Économiste du développement**  
 
 📍 Paris, France  
 📧 Email : [patriciakoto@gmail.com](mailto:patriciakoto@gmail.com)  
