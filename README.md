@@ -13,7 +13,7 @@
 
 Économiste du développement et statisticienne, j’utilise les données pour analyser les réalités socio-économiques et appuyer la prise de décision.  
 
-Mon profil combine analyse de données, expérience terrain en enquêtes statistiques et suivi de projets de développement.  
+Mon profil combine analyse de données, expérience terrain en enquêtes statistiques et gestion de projets de développement.  
 
 👉 **Objectif :** transformer les données en outils opérationnels pour orienter les politiques publiques.  
 
