@@ -47,15 +47,6 @@ Git, MLflow, Streamlit
 
 ---
 
-## 📊 Résultats clés  
-
-- Modèle de prédiction de la pauvreté avec une performance élevée (AUC > 0.75)  
-- Modèle de deep learning avec une précision d’environ 90 %  
-- Mise en place d’un suivi MLflow pour comparer plusieurs modèles  
-- Déploiement d’une application interactive pour la prise de décision  
-
----
-
 ## 📂 Projets  
 
 ### 🔹 Prédiction de la pauvreté (Machine Learning)  
